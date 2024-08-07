@@ -24,7 +24,7 @@ To run the analysis, you need to have the following dependencies installed:
 
 You can install the required packages using pip:
 
-```bash
+
 pip install pandas numpy matplotlib seaborn jupyter
 
 
@@ -46,5 +46,5 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 4. Run the cells in the notebook to perform the analysis.
 
-5. If there is any probelem use dataset provides as well ''' AmazonSalesData.csv''' download it and replace the read_csv path and reun the code
+5. If there is any probelem use dataset provides as well ''' AmazonSalesData.csv ''' download it and replace the read_csv path and reun the code
 
